@@ -1,7 +1,7 @@
 
 import axios from 'axios'
 
-const API_URL = 'http://localhost:4000/products/'
+const API_URL = 'https://shopback-coyg.onrender.com/products/'
 
 
 

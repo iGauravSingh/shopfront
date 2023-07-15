@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const URI = 'https://shopback-coyg.onrender.com/user'
+const URI = 'https://shopback-coyg.onrender.com/user/'
 
 //register user
 
