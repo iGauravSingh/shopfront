@@ -1,11 +1,11 @@
 import axios from 'axios'
 
-const URI = 'https://shopback-coyg.onrender.com/'
+const URI = 'https://shopback-coyg.onrender.com/user'
 
 //register user
 
 const register =async (userData)=>{
-    const response = await axios.post('https://shopback-coyg.onrender.com/register',userData)
+    const response = await axios.post(URI + 'register',userData)
     if(response.data){
         localStorage.setItem('user',JSON.stringify(response.data))
     }
