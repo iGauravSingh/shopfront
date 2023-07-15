@@ -1,0 +1,18 @@
+.itemHead{
+    text-align: center;
+}
+
+.itemDetail{
+    display: flex;
+}
+
+.itemDetail img{
+    height: 250px;
+    margin: 20px;
+}
+
+.itemDetail p{
+    height: 250px;
+    margin: 20px;
+    padding: 10px;
+}

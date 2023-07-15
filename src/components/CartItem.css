@@ -1,0 +1,18 @@
+.cartitemcont{
+    display: flex;
+    justify-content:flex-start;
+    margin: 30px;
+}
+.cartitemcont img{
+    width: 100px;
+    height: 100px;
+    margin: 0 30px 0 30px;
+}
+
+.cartitemcont h4{
+    margin: 30px 30px 0 30px;
+}
+.cartitemcont p{
+    font-weight: 800;
+    margin: 30px 30px 0 30px;
+}

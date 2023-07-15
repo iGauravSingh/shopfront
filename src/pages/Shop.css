@@ -1,0 +1,17 @@
+.cardcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.categoryContainer {
+    text-align: center;
+}
+.categoryContainer button {
+    border: none;
+    width: 100px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-right: 10px;
+    border-radius: 20px;
+}

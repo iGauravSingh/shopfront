@@ -1,0 +1,29 @@
+.herocontainer{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.herocontainer img{
+    width: 100%;
+    height: 100%;
+}
+.herocontainer .btnhe{
+    position: absolute;
+    width: 20%;
+  top: 40%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.herocontainer .btnhe:hover {
+    background-color: dodgerblue;
+}

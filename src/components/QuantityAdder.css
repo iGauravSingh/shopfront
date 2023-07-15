@@ -1,0 +1,35 @@
+.quantityMaster {
+    display: flex;
+    justify-content: center;
+}
+.qm-1{
+    width: 35px;
+    height: 25px;
+    font-weight: bold;
+    background-color: dodgerblue;
+    color: whitesmoke;
+    border: none;
+    border-radius: 4px;
+}
+
+.quantityMaster p{
+    width: 40px;
+    height: 25px;
+    background-color: lightsteelblue;
+    color: black;
+    text-align: center;
+    
+}
+
+.qm-2{
+    margin: 30px;
+    padding: 2px;
+    background-color: dodgerblue;
+    color: whitesmoke;
+    width: 200px;
+    height: 40px;
+}
+.ob-1{
+    text-align: center;
+}
+
