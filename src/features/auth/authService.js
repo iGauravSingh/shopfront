@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const URI = 'http://localhost:4000/user/'
+const URI = 'https://shopback-coyg.onrender.com/'
 
 //register user
 
